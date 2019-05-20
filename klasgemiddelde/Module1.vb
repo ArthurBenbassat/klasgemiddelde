@@ -23,5 +23,5 @@
             Console.Write("Het totaal van de leerling: " & namen(teller) & " is " & totaalStudent(teller))
         Next
     End Sub
-
+'denis stinkt
 End Module
